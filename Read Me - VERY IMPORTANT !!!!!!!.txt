@@ -1,0 +1,10 @@
+You may have problems with security software (Nuts and bolts ect..), if so just disable it and all should be well.
+
+This is where the gui for your replacement windows shell would go. If you can see the desktop icons (my computer, recycle bin ect...) 
+you need to click here to open c:\windows\system.ini and change the line 
+shell=explorere.exe(or litestep.exe) to where the executable for this application 
+is(see the text box below). Then restart you computer. And magicaly you will see this 
+again. To return your system to normal again open c:\windows\system.ini  again and change 
+the shell = line to look like this shell = explorer.exe. Hopefully this will cause some 
+of you to make your own shells and the shell scene will rocket. Maybe just maybe. E-mail 
+your replacement shells to me. Chris
